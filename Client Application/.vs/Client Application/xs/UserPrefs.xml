@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{634CEF5B-DE8E-4509-B921-0DE6383CED25}|Default">
+  <MonoDevelop.Ide.ItemProperties.Client_220Application PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Client Application/MainWindow.xaml.cs">
+    <Files>
+      <File FileName="Client Application/MainWindow.xaml.cs" Line="15" Column="18" />
+      <File FileName="../../../../usr/local/share/dotnet/x64/sdk/6.0.103/Sdks/Microsoft.NET.Sdk/targets/Microsoft.NET.Sdk.FrameworkReferenceResolution.targets" Line="90" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Client Application" expanded="True">
+            <Node name="Client Application" expanded="True">
+              <Node name="MainWindow.xaml.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,32 @@
+﻿<Window x:Name="MainWindow1" x:Class="Client_Application.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Client_Application"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="0,0,0,-16">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="65*"/>
+            <ColumnDefinition Width="13*"/>
+            <ColumnDefinition Width="16*"/>
+            <ColumnDefinition Width="25*"/>
+            <ColumnDefinition Width="681*"/>
+        </Grid.ColumnDefinitions>
+        <Rectangle x:Name="titleBar" Grid.ColumnSpan="5" Stroke="Black" Margin="0,0,0,379" Fill="#FF2B98CC"/>
+
+        <Button x:Name="sendButton" Content="Send" Margin="536,352,48,44" Click="sendButton_Click" Grid.Column="4"/>
+        <TextBox x:Name="inputBox" TextWrapping="Wrap" Margin="12,342,165,34" Grid.Column="4" Background="#FFF9F9FA"/>
+        <Label x:Name="Contacts_title_label" Content="Active users:" Margin="0,47,10,303" Grid.ColumnSpan="4" Foreground="#FFFFFCFC" Background="#FF2B98CC"/>
+        <Image Source="/message-1.png" Margin="25,4,11,391" Grid.ColumnSpan="3" RenderTransformOrigin="0.284,0.68"/>
+        <StackPanel x:Name="activeUsersPanel" Margin="0,80,10,14" Grid.ColumnSpan="4" Background="#FF2B98CC"/>
+        <Label x:Name="UsernameLabel" Content="Username:" Grid.Column="4" Margin="29,14,561,353" Foreground="White"/>
+        <Label x:Name="UsernameValueLabel" Grid.Column="4" Margin="89,14,470,383" Content="default" Foreground="White" RenderTransformOrigin="0.089,0.622"/>
+        <Label x:Name="talkingToLabel" Content="Talking to:" Grid.Column="4" Margin="264,13,339,393" Foreground="White" RenderTransformOrigin="0.639,0.287"/>
+        <Label x:Name="talkingToContentLabel" Content="Nobody" Grid.Column="4" Margin="325,13,220,-13" Foreground="White"/>
+        <Label x:Name="MessageLabel" Content="Message:" Grid.Column="4" Margin="12,313,591,14" RenderTransformOrigin="0.562,0.023"/>
+        <TextBox x:Name="MessageReceiveBox" TextWrapping="Wrap" Text="" Margin="12,71,84,142" Grid.Column="4" Background="#FFF9F9FA" IsReadOnly="True"/>
+
+    </Grid>
+</Window>

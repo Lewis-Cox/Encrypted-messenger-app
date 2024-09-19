@@ -1,0 +1,44 @@
+C:\Users\lewis\source\repos\Client Application\Client Application\bin\Debug\net6.0-windows\Client Application.exe
+C:\Users\lewis\source\repos\Client Application\Client Application\bin\Debug\net6.0-windows\Client Application.deps.json
+C:\Users\lewis\source\repos\Client Application\Client Application\bin\Debug\net6.0-windows\Client Application.runtimeconfig.json
+C:\Users\lewis\source\repos\Client Application\Client Application\bin\Debug\net6.0-windows\Client Application.dll
+C:\Users\lewis\source\repos\Client Application\Client Application\bin\Debug\net6.0-windows\Client Application.pdb
+C:\Users\lewis\source\repos\Client Application\Client Application\obj\Debug\net6.0-windows\Client Application.csproj.AssemblyReference.cache
+C:\Users\lewis\source\repos\Client Application\Client Application\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lewis\source\repos\Client Application\Client Application\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lewis\source\repos\Client Application\Client Application\obj\Debug\net6.0-windows\Client Application_MarkupCompile.cache
+C:\Users\lewis\source\repos\Client Application\Client Application\obj\Debug\net6.0-windows\Client Application_MarkupCompile.lref
+C:\Users\lewis\source\repos\Client Application\Client Application\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lewis\source\repos\Client Application\Client Application\obj\Debug\net6.0-windows\Client Application.g.resources
+C:\Users\lewis\source\repos\Client Application\Client Application\obj\Debug\net6.0-windows\Client Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lewis\source\repos\Client Application\Client Application\obj\Debug\net6.0-windows\Client Application.AssemblyInfoInputs.cache
+C:\Users\lewis\source\repos\Client Application\Client Application\obj\Debug\net6.0-windows\Client Application.AssemblyInfo.cs
+C:\Users\lewis\source\repos\Client Application\Client Application\obj\Debug\net6.0-windows\Client Application.csproj.CoreCompileInputs.cache
+C:\Users\lewis\source\repos\Client Application\Client Application\obj\Debug\net6.0-windows\Client Application.dll
+C:\Users\lewis\source\repos\Client Application\Client Application\obj\Debug\net6.0-windows\refint\Client Application.dll
+C:\Users\lewis\source\repos\Client Application\Client Application\obj\Debug\net6.0-windows\Client Application.pdb
+C:\Users\lewis\source\repos\Client Application\Client Application\obj\Debug\net6.0-windows\Client Application.genruntimeconfig.cache
+C:\Users\lewis\source\repos\Client Application\Client Application\obj\Debug\net6.0-windows\ref\Client Application.dll
+C:\Users\lewis\Desktop\NEA\Client Application\Client Application\bin\Debug\net6.0-windows\Client Application.exe
+C:\Users\lewis\Desktop\NEA\Client Application\Client Application\bin\Debug\net6.0-windows\Client Application.deps.json
+C:\Users\lewis\Desktop\NEA\Client Application\Client Application\bin\Debug\net6.0-windows\Client Application.runtimeconfig.json
+C:\Users\lewis\Desktop\NEA\Client Application\Client Application\bin\Debug\net6.0-windows\Client Application.dll
+C:\Users\lewis\Desktop\NEA\Client Application\Client Application\bin\Debug\net6.0-windows\Client Application.pdb
+C:\Users\lewis\Desktop\NEA\Client Application\Client Application\obj\Debug\net6.0-windows\Client Application.csproj.AssemblyReference.cache
+C:\Users\lewis\Desktop\NEA\Client Application\Client Application\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\lewis\Desktop\NEA\Client Application\Client Application\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\lewis\Desktop\NEA\Client Application\Client Application\obj\Debug\net6.0-windows\Client Application_MarkupCompile.cache
+C:\Users\lewis\Desktop\NEA\Client Application\Client Application\obj\Debug\net6.0-windows\Client Application_MarkupCompile.lref
+C:\Users\lewis\Desktop\NEA\Client Application\Client Application\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\lewis\Desktop\NEA\Client Application\Client Application\obj\Debug\net6.0-windows\Client Application.g.resources
+C:\Users\lewis\Desktop\NEA\Client Application\Client Application\obj\Debug\net6.0-windows\Client Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lewis\Desktop\NEA\Client Application\Client Application\obj\Debug\net6.0-windows\Client Application.AssemblyInfoInputs.cache
+C:\Users\lewis\Desktop\NEA\Client Application\Client Application\obj\Debug\net6.0-windows\Client Application.AssemblyInfo.cs
+C:\Users\lewis\Desktop\NEA\Client Application\Client Application\obj\Debug\net6.0-windows\Client Application.csproj.CoreCompileInputs.cache
+C:\Users\lewis\Desktop\NEA\Client Application\Client Application\obj\Debug\net6.0-windows\Client Application.dll
+C:\Users\lewis\Desktop\NEA\Client Application\Client Application\obj\Debug\net6.0-windows\refint\Client Application.dll
+C:\Users\lewis\Desktop\NEA\Client Application\Client Application\obj\Debug\net6.0-windows\Client Application.pdb
+C:\Users\lewis\Desktop\NEA\Client Application\Client Application\obj\Debug\net6.0-windows\Client Application.genruntimeconfig.cache
+C:\Users\lewis\Desktop\NEA\Client Application\Client Application\obj\Debug\net6.0-windows\ref\Client Application.dll
+C:\Users\lewis\Desktop\NEA\Client Application\Client Application\obj\Debug\net6.0-windows\Startup window.g.cs
+C:\Users\lewis\Desktop\NEA\Client Application\Client Application\obj\Debug\net6.0-windows\Startup window.baml

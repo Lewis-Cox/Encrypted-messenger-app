@@ -1,0 +1,15 @@
+/Users/lewis/Projects/clientTesting/clientTesting/bin/Debug/net5.0/clientTesting.deps.json
+/Users/lewis/Projects/clientTesting/clientTesting/bin/Debug/net5.0/clientTesting.runtimeconfig.json
+/Users/lewis/Projects/clientTesting/clientTesting/bin/Debug/net5.0/clientTesting.runtimeconfig.dev.json
+/Users/lewis/Projects/clientTesting/clientTesting/bin/Debug/net5.0/clientTesting.dll
+/Users/lewis/Projects/clientTesting/clientTesting/bin/Debug/net5.0/ref/clientTesting.dll
+/Users/lewis/Projects/clientTesting/clientTesting/bin/Debug/net5.0/clientTesting.pdb
+/Users/lewis/Projects/clientTesting/clientTesting/obj/Debug/net5.0/clientTesting.csproj.AssemblyReference.cache
+/Users/lewis/Projects/clientTesting/clientTesting/obj/Debug/net5.0/clientTesting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lewis/Projects/clientTesting/clientTesting/obj/Debug/net5.0/clientTesting.AssemblyInfoInputs.cache
+/Users/lewis/Projects/clientTesting/clientTesting/obj/Debug/net5.0/clientTesting.AssemblyInfo.cs
+/Users/lewis/Projects/clientTesting/clientTesting/obj/Debug/net5.0/clientTesting.csproj.CoreCompileInputs.cache
+/Users/lewis/Projects/clientTesting/clientTesting/obj/Debug/net5.0/clientTesting.dll
+/Users/lewis/Projects/clientTesting/clientTesting/obj/Debug/net5.0/ref/clientTesting.dll
+/Users/lewis/Projects/clientTesting/clientTesting/obj/Debug/net5.0/clientTesting.pdb
+/Users/lewis/Projects/clientTesting/clientTesting/obj/Debug/net5.0/clientTesting.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{EE5A5210-358B-4065-A7C4-6D1EAF8B411B}|Default">
+  <MonoDevelop.Ide.ItemProperties.server_220side_220testing PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="server side testing/Program.cs">
+    <Files>
+      <File FileName="server side testing/Program.cs" Line="234" Column="42" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="server side testing" expanded="True">
+            <Node name="server side testing" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
